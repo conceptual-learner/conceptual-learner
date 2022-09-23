@@ -1,8 +1,10 @@
 Hi there, I am Thilak P👋
-I am an aspiring Machine Learning Engineer. I am comfortable in deriving Bayes theorem from first principles😄. I am not an expert, but I want to be.
+- ⚛️ I am an aspiring Machine Learning Engineer. 
+- 📐 I am comfortable in deriving Bayes theorem from first principles😄. 
+- 🏃‍♂️ I am not an expert, but I want to be.
 - 👀 I’m interested in Data Science, Maths and books.
-- 🌱 I’m currently learning AI and ML.
-- 📫 You can reach out to me on,
+- 🌱 I’m rigorously learning AI and ML.
+- 📫 You can reach out to me at,
 - 📧 thilak24p@gmail.com
 
 <!---
