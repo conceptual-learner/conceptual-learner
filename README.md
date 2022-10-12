@@ -1,6 +1,5 @@
 Hi there, I am Thilak👋
 - ⚛️ I am an aspiring Machine Learning Engineer. 
-- 🏃‍♂️ I am not an expert, but I want to be.
 - 👀 I’m interested in Data Science, Maths, software development and books.
 - 🌱 I’m rigorously learning AI and ML.
 - 📫 You can reach out to me at,
