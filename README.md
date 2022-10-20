@@ -1,4 +1,4 @@
-Hi there, I am Thilak👋
+Hey there, I am Thilak👋
 - ⚛️ I am an aspiring Machine Learning Engineer. 
 - 👀 I’m interested in Data Science, Maths, Software development and Books.
 - 🌱 I’m rigorously learning AI and ML.
